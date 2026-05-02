@@ -11,6 +11,6 @@
 
 . Function Plus: https://waltwhitedameta13.github.io/Function_Plus_LP-repost-/
 
-. Orlog Remake
+. Orlog Remake: https://waltwhitedameta13.github.io/Orlog/
 
 <img align="center" alt="HTML" width="80px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="padding-right:20px;"/>
