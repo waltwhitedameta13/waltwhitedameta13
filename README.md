@@ -12,4 +12,3 @@
 
 .Orlog Remake
 
-✨ Estou sempre aprendendo e melhorando, passo a passo!
