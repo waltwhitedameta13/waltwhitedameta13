@@ -8,7 +8,7 @@
 
  Alguns exemplos de projetos que já fiz:
 
-.Function Plus
+. Function Plus
 
-.Orlog Remake
+. Orlog Remake
 
