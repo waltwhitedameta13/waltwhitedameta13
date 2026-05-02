@@ -1,16 +1,14 @@
-## Hi there 👋
+👋 Olá! Eu sou João Guilherme Novaes, tenho 13 anos e sou estudante de robótica.
 
-<!--
-**waltwhitedameta13/waltwhitedameta13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Atualmente, estou aprendendo e desenvolvendo projetos usando HTML5, focando em entender melhor como criar páginas web e explorar novas ideias.
 
-Here are some ideas to get you started:
+🧪 Meus projetos são experimentais, feitos mais para aprendizado e prática do que para algo profissional ou grande. Gosto de testar coisas novas e ver até onde consigo chegar.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 No futuro, pretendo evoluir minhas habilidades em programação, criando sites mais completos e até jogos mais elaborados.
+
+📂 Alguns exemplos de projetos que já fiz:
+
+Function Plus
+Orlog Remake
+
+✨ Estou sempre aprendendo e melhorando, passo a passo!
